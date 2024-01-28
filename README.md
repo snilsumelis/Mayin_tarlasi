@@ -48,7 +48,28 @@ Sütun Giriniz : 3
  -  -  -  -  - 
  -  -  2  -  - 
  -  -  -  -  - 
+ -  -  -  -  -
+Satır Giriniz : 1
+Sütun Giriniz : 1
  -  -  -  -  - 
+ -  3  -  -  - 
+ -  -  2  -  - 
+ -  -  -  -  - 
+ -  -  -  -  -
 Satır Giriniz : 0
-Sütun Giriniz : 0
+Sütun Giriniz : 2
+ -  -  -  -  - 
+ -  3  -  -  - 
+ 3  -  2  -  - 
+ -  -  -  -  - 
+ -  -  -  -  -
+Satır Giriniz : 4
+Sütun Giriniz : 4
+ -  -  -  -  - 
+ -  3  -  -  - 
+ 3  -  2  -  - 
+ -  -  -  -  - 
+ -  -  -  -  1
+Satır Giriniz : 0
+Sütun Giriniz : 1
 Game Over!! ===========================
