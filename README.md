@@ -17,17 +17,6 @@ This Java program implements a simple console-based Minesweeper game. Players ca
 4. The game ends if a mine is revealed.
 5. The player wins by revealing all non-mine cells.
 
-## Usage
-1. Clone the repository to your local machine:
-    ```bash
-    git clone https://github.com/snilsumelis/Mayin_tarlasi
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd your-repository
-    ```
-3. Compile and run the `Main` class in the `src` directory.
-
 ## Example Output
 ```bash
 Mayınların Konumu :
